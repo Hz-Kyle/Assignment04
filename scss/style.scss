@@ -1,0 +1,20 @@
+//foundation
+@use 'foundation/reset';
+@use 'foundation/setting';
+@use 'foundation/fonts';
+@use 'foundation/base';
+
+//layout
+@use 'layout/header';
+@use 'layout/layout';
+@use 'layout/footer';
+
+//object
+@use 'object/component/btn';
+@use 'object/component/nav';
+@use 'object/component/title';
+
+@use 'object/project/mainvisual';
+@use 'object/project/card-block';
+@use 'object/project/card-activity';
+@use 'object/project/email';
